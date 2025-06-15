@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Departure Mono';
+    src: url('dehinted-subset-DepartureMono-Regular.woff2') format('woff2'),
+        url('dehinted-subset-DepartureMono-Regular.woff') format('woff'),
+        url('dehinted-subset-DepartureMono-Regular.svg#DepartureMono-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
